@@ -1,0 +1,17 @@
+#header{
+    background-color: #a1d11b;
+    text-align: center;
+    padding: 10px 10px 30px 10px;
+}
+
+#header img {
+    width: 115px;
+    height: 70px;
+    float: left;
+}
+
+#header span {
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+}
